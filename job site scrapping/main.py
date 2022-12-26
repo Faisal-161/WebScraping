@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 
-#Can do it by find_all tag in seleimum library
+#Can do it by find_all tag in seleimum library also can use the css_selector.
 
 print('Put some skill that you are not familiar with')
 unfamiliar_skill = input('>')
